@@ -1,0 +1,9 @@
+C:\Users\cliente-preferido\source\repos\ProductosAccesoDatos\bin\Debug\ProductosAccesoDatos.dll
+C:\Users\cliente-preferido\source\repos\ProductosAccesoDatos\bin\Debug\ProductosAccesoDatos.pdb
+C:\Users\cliente-preferido\source\repos\ProductosAccesoDatos\bin\Debug\ProductosEntidades.dll
+C:\Users\cliente-preferido\source\repos\ProductosAccesoDatos\bin\Debug\ProductosEntidades.pdb
+C:\Users\cliente-preferido\source\repos\ProductosAccesoDatos\obj\Debug\ProductosAccesoDatos.csprojAssemblyReference.cache
+C:\Users\cliente-preferido\source\repos\ProductosAccesoDatos\obj\Debug\ProductosAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\cliente-preferido\source\repos\ProductosAccesoDatos\obj\Debug\ProductosAccesoDatos.csproj.CopyComplete
+C:\Users\cliente-preferido\source\repos\ProductosAccesoDatos\obj\Debug\ProductosAccesoDatos.dll
+C:\Users\cliente-preferido\source\repos\ProductosAccesoDatos\obj\Debug\ProductosAccesoDatos.pdb
